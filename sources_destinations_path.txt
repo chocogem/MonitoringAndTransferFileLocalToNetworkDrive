@@ -1,0 +1,2 @@
+D:\source1,J:\destination1
+D:\source2,Z:\destination2

@@ -1,0 +1,2 @@
+J,\\yoursharedrive1,yourUser1,yourPassword1
+Z,\\yoursharedrive2,yourUser2,yourPassord2
