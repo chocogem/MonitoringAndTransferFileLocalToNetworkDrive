@@ -1,3 +1,3 @@
-# MonitoringAndTransferFileLocalToNetworkDrive
+# MonitoringAndTransferFileToNetworkDriveShellScript
 
-Monitoring folder in local and copy file transfer to network drive folder
+ShellScript for monitoring file on local folder and copy files to anoter folder on network drive. 
